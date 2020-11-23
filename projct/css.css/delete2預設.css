@@ -1,0 +1,31 @@
+.box{
+    border: 30px solid lightsalmon;
+    padding: 20px;
+    
+}
+
+.box p1{
+    padding-left: 95px;
+    padding-right: 95px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 60px;
+    font-family: arial;
+    color: powderblue;
+}
+.box p1 img{
+    margin: 60px;
+}
+.box p2{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 5px;
+    font-size: 50px;
+    font-family: arial;
+    color: powderblue;
+}
+.box p2 img{
+    margin: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
